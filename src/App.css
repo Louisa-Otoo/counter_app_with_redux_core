@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin: 10rem auto;
+  /* border: 2px solid brown; */
+  max-width: 20rem;
+  padding: 3rem;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.3);
+}
+
+button {
+  font-size: 1rem;
+  border: 2px solid gray;
+  padding: 0.5rem;
+  border-radius: 0.4rem;
+}
+
+button:hover {
+  border: 1px solid green;
+  background: rgb(217, 241, 217);
+}
+
