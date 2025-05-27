@@ -34,14 +34,14 @@ A simple counter application built with **React** and **Redux Core**. It demonst
 
 ---
 
-The Redux store is set up manually without Redux Toolkit. It uses createStore() from Redux and custom action creators and reducers.
+**The Redux store is set up manually without Redux Toolkit. It uses createStore() from Redux and custom action creators and reducers.**
 
 ---
 
 🙌 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to fork the repo and submit a pull request.
 
-👨‍💻 Author
+👨‍💻 Author, 
   Louisa-Otoo
 
 ---
