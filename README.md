@@ -4,7 +4,7 @@ A simple counter application built with **React** and **Redux Core**. It demonst
 
 ## 🚀 Live Demo
 
-[View Demo](https://counter-app-with-redux-core.vercel.app/)
+[View Demo Here](https://counter-app-with-redux-core.vercel.app/)
 
 ---
 
