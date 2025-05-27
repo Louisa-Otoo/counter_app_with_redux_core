@@ -38,11 +38,4 @@ A simple counter application built with **React** and **Redux Core**. It demonst
 
 ---
 
-🙌 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to fork the repo and submit a pull request.
-
-👨‍💻 Author, 
-  Louisa-Otoo
-
----
 
