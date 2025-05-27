@@ -2,7 +2,9 @@
 
 A simple counter application built with **React** and **Redux Core**. It demonstrates the core concepts of Redux like state management, actions, reducers, and store configuration, all within a clean and minimal UI.
 
-🚀 **Live Demo:** [View on Vercel] (https://counter-app-with-redux-core.vercel.app/)
+## 🚀 Live Demo
+
+[View Demo] (https://counter-app-with-redux-core.vercel.app/)
 
 ---
 
