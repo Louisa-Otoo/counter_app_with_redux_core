@@ -20,7 +20,6 @@ A simple counter application built with **React** and **Redux Core**. It demonst
 - Increment / Decrement counter
 - Reset counter to zero
 - State management with pure Redux (no Toolkit)
-- Clean UI
 
 ---
 
